@@ -32,4 +32,4 @@ Full-featured **Cryptohopper Zen** productivity platform for team collaboration,
 - An internet connection for the first run
 
 ## Legal
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor. 
